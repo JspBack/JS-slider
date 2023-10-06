@@ -1,3 +1,4 @@
+import React from "react"; 
 import "./Slider.css";
 import bg1 from "background";
 import bg2 from "background";
